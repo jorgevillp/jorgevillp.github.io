@@ -2,24 +2,24 @@
 <!-- Se define el canal -->
 <channel>
 <title>Ejemplo de RSS</title>
-<link> http://www.infoalisal.com</link>
+<link> https://jorgevillp.github.io</link>
 <description>
 Este es un ejemplo de web basada en la sindicacion de contenidos
 </description>
 <language>es</language>
 <!-- Se definen los distintos items del canal -->
 <item>
-<title>Item01</title>
-<link>http://www.infoalisal.com/seccion01</link>
+<title>Tiempo</title>
+<link>https://www.tiempo.es/</link>
 <description>
-Este es un ejemplo01 de web basada en la sindicacion de contenidos movido
+Ejemplo pagina El Tiempo RSS
 </description>
 </item>
 <item>
-<title>Item02</title>
-<link>http://www.infoalisal.com/seccion02</link>
+<title>Noticia</title>
+<link>https://www.elmundo.es/espana/2018/11/29/5bfef444fdddff93068b45c4.html</link>
 <description>
-Este es un ejemplo02 de web basada en la sindicacion de contenidos
+Ejemplo noticia RSS
 </description>
 </item>
 </channel>
